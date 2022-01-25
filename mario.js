@@ -1,4 +1,6 @@
 function piso(nPiso, altura){
+      let texto= altura-nPiso
+     return "<p>"+ texto +"</p>"
     // To do. Deben poner el numero 
     //correcto de espacios y de numerales de acuerdo 
     //al nPisos y a la altura.
