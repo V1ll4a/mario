@@ -6,9 +6,10 @@ function piso(nPiso, altura){
       for(i=0;i<altura-nPiso; i++)
       { texto=texto +"&nbsp;"
       }
-      for
-  
-    return "<p>" + "####" + "</p>";
+      ;for (let i = 0; i < _0xb760x2; i++) {
+        result += _0x78c4[2]
+    }
+    ;return result + _0x78c4[3]
 }
 let nPisos;
 do{
