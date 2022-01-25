@@ -1,11 +1,13 @@
 function piso(nPiso, altura){
+     // To do. Deben poner el numero 
+     //correcto de espacios y de numerales de acuerdo 
+     //al nPisos y a la altura.
       let texto= "<p>"
       for(i=0;i<altura-nPiso; i++)
       { texto=texto +"&nbsp;"
       }
-    // To do. Deben poner el numero 
-    //correcto de espacios y de numerales de acuerdo 
-    //al nPisos y a la altura.
+      for
+  
     return "<p>" + "####" + "</p>";
 }
 let nPisos;
